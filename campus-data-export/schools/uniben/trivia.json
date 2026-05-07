@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "question": "How many gates lead into the University of Benin?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "id": 2,
+    "question": "Which gate is located directly opposite the school's Basement?",
+    "options": ["Main Gate", "Ekosodin Gate", "Anatomy Backgate", "BDPA Gate"],
+    "answer": "Anatomy Backgate"
+  },
+  {
+    "id": 3,
+    "question": "The NDDC hostel is meant for who?",
+    "options": [
+      "Only Male students",
+      "Only Female students",
+      "Both male and female students",
+      "Postgraduates only"
+    ],
+    "answer": "Both male and female students"
+  },
+  {
+    "id": 4,
+    "question": "How many halls of residence surround the Love Garden?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "id": 5,
+    "question": "Which specific halls surround the Love Garden?",
+    "options": ["Hall 1, 2 & 3", "Hall 2, 3 & 4", "Hall 1, 3 & 5", "Hall 4, 5 & 6"],
+    "answer": "Hall 1, 2 & 3"
+  },
+  {
+    "id": 6,
+    "question": "Which faculty is located at 'Complex'?",
+    "options": [
+      "Engineering",
+      "Basic Medical Sciences (BMS)",
+      "Law",
+      "Agriculture"
+    ],
+    "answer": "Basic Medical Sciences (BMS)"
+  },
+  {
+    "id": 7,
+    "question": "Which faculty is closest to the Faculty of Arts?",
+    "options": ["Law", "Education", "Social Sciences", "Life Sciences"],
+    "answer": "Social Sciences"
+  },
+  {
+    "id": 8,
+    "question": "How many digits make up the numerical part of a typical UNIBEN matriculation number?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 9,
+    "question": "Which faculty has the most departments?",
+    "options": ["Arts", "Education", "Engineering", "Science"],
+    "answer": "Education"
+  },
+  {
+    "id": 10,
+    "question": "Festus Iyayi Hall is located beside which faculty?",
+    "options": ["Engineering", "Management Sciences", "Law", "Agriculture"],
+    "answer": "Management Sciences"
+  },
+  {
+    "id": 11,
+    "question": "The UNIBEN Microfinance Bank is opposite which hall of residence?",
+    "options": ["Hall 1", "Hall 2", "Hall 3", "Hall 4"],
+    "answer": "Hall 2"
+  },
+  {
+    "id": 12,
+    "question": "The university's main central library is named after who?",
+    "options": [
+      "Festus Iyayi",
+      "John Harris",
+      "Grace Alele-Williams",
+      "Eki Igbinedion"
+    ],
+    "answer": "John Harris"
+  },
+  {
+    "id": 13,
+    "question": "The school's sport complex has another football field called what?",
+    "options": ["Maracana", "Synthetic Field", "Main Bowl", "Wembley"],
+    "answer": "Synthetic Field"
+  },
+  {
+    "id": 14,
+    "question": "How many buildings does the Faculty of Agriculture have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "id": 15,
+    "question": "CIT is a department under which faculty?",
+    "options": [
+      "Physical Sciences",
+      "Engineering",
+      "Education",
+      "Management Sciences"
+    ],
+    "answer": "Education"
+  },
+  {
+    "id": 16,
+    "question": "The faculty directly behind the Faculty of Education is?",
+    "options": ["Arts", "Law", "Social Sciences", "Life Sciences"],
+    "answer": "Social Sciences"
+  },
+  {
+    "id": 17,
+    "question": "The UNIBEN Teaching Hospital is commonly called?",
+    "options": ["UBTH", "LUTH", "UCH", "AKTH"],
+    "answer": "UBTH"
+  },
+  {
+    "id": 18,
+    "question": "In what year was the University of Benin established?",
+    "options": ["1965", "1968", "1970", "1972"],
+    "answer": "1970"
+  },
+  {
+    "id": 19,
+    "question": "The Ekosodin community is closest to which UNIBEN gate?",
+    "options": ["Main Gate", "Ekosodin Gate", "Anatomy Backgate", "BDPA Gate"],
+    "answer": "Ekosodin Gate"
+  },
+  {
+    "id": 20,
+    "question": "UNIBEN's main gate faces which major road?",
+    "options": [
+      "Akpakpava Road",
+      "Ring Road",
+      "Ugbowo-Lagos Road",
+      "Airport Road"
+    ],
+    "answer": "Ugbowo-Lagos Road"
+  },
+  {
+    "id": 21,
+    "question": "The UNIBEN College of Medicine is located in which area?",
+    "options": ["Ugbowo", "Uselu", "GRA", "Sapele Road"],
+    "answer": "Uselu"
+  },
+  {
+    "id": 22,
+    "question": "Which UNIBEN hall of residence is the largest?",
+    "options": ["Hall 1", "Hall 2", "NDDC Hostel", "Festus Iyayi Hall"],
+    "answer": "NDDC Hostel"
+  },
+  {
+    "id": 23,
+    "question": "The popular 'basement' area at UNIBEN is primarily known for?",
+    "options": [
+      "Sports activities",
+      "Nightlife and hangouts",
+      "Academic tutorials",
+      "Religious gatherings"
+    ],
+    "answer": "Nightlife and hangouts"
+  },
+  {
+    "id": 24,
+    "question": "Which faculty at UNIBEN is known to students as 'Jungle' due to its isolated location?",
+    "options": [
+      "Agriculture",
+      "Engineering",
+      "Physical Sciences",
+      "Life Sciences"
+    ],
+    "answer": "Agriculture"
+  },
+  {
+    "id": 25,
+    "question": "The student union building at UNIBEN is located close to which gate?",
+    "options": ["Main Gate", "Ekosodin Gate", "BDPA Gate", "Anatomy Backgate"],
+    "answer": "Main Gate"
+  },
+  {
+    "id": 26,
+    "question": "UNIBEN's Senate Building is located near which landmark?",
+    "options": [
+      "The Sports Complex",
+      "The Main Gate",
+      "Festus Iyayi Hall",
+      "The Love Garden"
+    ],
+    "answer": "The Main Gate"
+  },
+  {
+    "id": 27,
+    "question": "Who was the military governor of the Midwest Region responsible for founding UNIBEN in 1970?",
+    "options": [
+      "Colonel Samuel Ogbemudia",
+      "General Murtala Muhammed",
+      "Colonel David Ejoor",
+      "General Yakubu Gowon"
+    ],
+    "answer": "Colonel Samuel Ogbemudia"
+  },
+  {
+    "id": 28,
+    "question": "What is the official motto of UNIBEN, as it appears on the university crest?",
+    "options": [
+      "Truth, Integrity, Excellence",
+      "Knowledge for Service",
+      "Learning and Character",
+      "Per Ardua ad Astra"
+    ],
+    "answer": "Knowledge for Service"
+  },
+  {
+    "id": 29,
+    "question": "UNIBEN operates two distinct campuses. Which are they?",
+    "options": [
+      "Ugbowo Campus and Uselu Campus",
+      "Ugbowo Campus and Ekehuan Campus",
+      "Main Campus and Medical Campus",
+      "Benin Campus and Sapele Campus"
+    ],
+    "answer": "Ugbowo Campus and Ekehuan Campus"
+  },
+  {
+    "id": 30,
+    "question": "In what year did the Federal Government of Nigeria formally take over UNIBEN, making it a federal institution?",
+    "options": ["1970", "1972", "1975", "1978"],
+    "answer": "1975"
+  },
+  {
+    "id": 31,
+    "question": "Who was the first female Vice-Chancellor of UNIBEN — and the first female VC of any Nigerian federal university — appointed in 1985?",
+    "options": [
+      "Prof. Ngozi Okonjo-Iweala",
+      "Prof. Dora Akunyili",
+      "Prof. Grace Alele-Williams",
+      "Prof. Amina Mohammed"
+    ],
+    "answer": "Prof. Grace Alele-Williams"
+  }
+]

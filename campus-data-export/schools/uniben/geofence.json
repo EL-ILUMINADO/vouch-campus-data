@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "label": "Main Campus (Ugbowo)",
+      "lat": 6.3749,
+      "lng": 5.6218,
+      "radiusKm": 2.8
+    },
+    {
+      "label": "College of Medicine",
+      "lat": 6.385,
+      "lng": 5.6345,
+      "radiusKm": 1.2
+    }
+  ]
+}

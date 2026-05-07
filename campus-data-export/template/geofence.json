@@ -1,0 +1,10 @@
+{
+  "zones": [
+    {
+      "label": "Main Campus",
+      "lat": 0.0,
+      "lng": 0.0,
+      "radiusKm": 2.0
+    }
+  ]
+}
